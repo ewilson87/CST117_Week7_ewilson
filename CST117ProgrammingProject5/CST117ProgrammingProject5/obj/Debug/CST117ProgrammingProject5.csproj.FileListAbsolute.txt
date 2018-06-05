@@ -1,0 +1,13 @@
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\bin\Debug\CST117ProgrammingProject5.exe.config
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\bin\Debug\CST117ProgrammingProject5.exe
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\bin\Debug\CST117ProgrammingProject5.pdb
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.csprojResolveAssemblyReference.cache
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.Form1.resources
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.Form2.resources
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.Properties.Resources.resources
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.csproj.GenerateResource.cache
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.csproj.CopyComplete
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.exe
+C:\Users\evanw\source\repos\CST117ProgrammingProject5\CST117ProgrammingProject5\obj\Debug\CST117ProgrammingProject5.pdb
