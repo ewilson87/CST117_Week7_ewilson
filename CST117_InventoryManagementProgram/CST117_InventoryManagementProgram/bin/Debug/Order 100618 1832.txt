@@ -1,0 +1,12 @@
+Items to be ordered:
+
+Name: LENOVO YOGA, Model: 910-13IKB, Quantity: 4, Item Price: 1299.99, Total: 5199.96
+
+Name: IPHONE X, Model: A1901, Quantity: 1, Item Price: 999.99, Total: 999.99
+
+Name: IPHONE 8, Model: A1863, Quantity: 3, Item Price: 649.99, Total: 1949.97
+
+Name: PLAYSTATION 4 PRO, Model: CUH-7100, Quantity: 2, Item Price: 379.99, Total: 759.98
+
+Total of this order: 8909.90
+6/10/2018 6:32:51 PM

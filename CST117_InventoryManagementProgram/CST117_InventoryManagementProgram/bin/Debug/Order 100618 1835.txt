@@ -1,0 +1,10 @@
+Items to be ordered:
+
+Name: LENOVO YOGA, Model: 910-13IKB, Quantity: 2, Item Price: $1,299.99, Total: $2,599.98
+
+Name: IPHONE 8, Model: A1863, Quantity: 2, Item Price: $649.99, Total: $1,299.98
+
+Name: IPHONE X, Model: A1901, Quantity: 5, Item Price: $999.99, Total: $4,999.95
+
+Total of this order: $8,899.91
+6/10/2018 6:35:45 PM
