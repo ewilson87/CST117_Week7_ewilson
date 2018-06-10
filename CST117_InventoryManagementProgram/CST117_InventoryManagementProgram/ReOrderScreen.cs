@@ -1,7 +1,7 @@
 ﻿/**
  * Program: Inventory Management Program
  * File: ReOrderScreen.cs
- * Summary: Multi form inventory management application - Milestone 3
+ * Summary: Multi form inventory management application - Milestone 5
  * Author: Evan Wilson
  * Date: May 20th, 2018
  **/

@@ -34,7 +34,7 @@ namespace CST117_InventoryManagementProgram
         {
             HomeScreen homeScreen = new HomeScreen();
 
-            this.Close();
+            this.Hide();
             homeScreen.Show();
         }
 

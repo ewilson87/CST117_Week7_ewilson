@@ -55,7 +55,7 @@ namespace CST117_InventoryManagementProgram
         {
             try
             {
-                //creates a new backup file (overwrites previous backup) upon execution of program as a safeguard in case of accidental changes
+                //saves login data to a file
                 FileStream fcreate = File.Open("logon.csv", FileMode.Create);
 
                 StreamWriter streamWriter = new StreamWriter(fcreate);
@@ -78,7 +78,7 @@ namespace CST117_InventoryManagementProgram
         {
             try
             {
-                //opens inventory file
+                //opens logon file
                 StreamReader streamReader = new StreamReader(File.OpenRead("logon.csv"));
                     string logonFile = streamReader.ReadLine();
                     string[] logonDetails = logonFile.Split(',');

@@ -1,0 +1,10 @@
+Items to be ordered:
+
+Name: IPHONE 8, Model: A1863, Quantity: 2, Item Price: $649.99, Total: $1,299.98
+
+Name: LENOVO YOGA, Model: 910-13IKB, Quantity: 6, Item Price: $1,299.99, Total: $7,799.94
+
+Name: PLAYSTATION 4 PRO, Model: CUH-7100, Quantity: 4, Item Price: $379.99, Total: $1,519.96
+
+Total of this order: $10,619.88
+6/10/2018 7:28:37 PM
